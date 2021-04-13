@@ -4,7 +4,7 @@
       Datos de Cliente:
     </h2>
     <div v-if="!progress" class="flex justify-center items-center">
-      <i class="icon-facebook text-9xl text-bluetextsmall" />
+      <i class="icon-spin text-9xl text-bluetextsmall" />
     </div>
     <div v-else class="border border-solid border-gray-300 p-4 rounded-xl">
       <h3 class="text-lg text-semibold text-truegray-600 mb-3">
